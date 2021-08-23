@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- ////////////////// START README FILE /////////////////// -->
 
-<h1 align="center">Hi there 👋, I'm Vinojan Veerapathirathasan</h1>
+<h1 align="center">I'm Vinojan Veerapathirathasan</h1>
 <h3 align="center">Undergraduate of Software Engineering, University of Kelaniya.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinojan1999&label=Profile%20views&color=0e75b6&style=flat" alt="vinojan1999" /> </p>
