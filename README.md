@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <!-- //////// Contact Details /////////////-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="img/twitter.svg" alt="iam_vinojan" height="30" width="40" /></a>
+<a href="https://twitter.com/iam_vinojan" target="blank"><img align="center" src="img/twitter.svg" alt="iam_vinojan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vinojan-abhimanyu" target="blank"><img align="center" src="img/linkedin.svg" alt="vinojan-abhimanyu" height="30" width="40" /></a>
 <a href="https://fb.com/vinojan.abhimanyu" target="blank"><img align="center" src="img/facebook.svg" alt="vinojan.abhimanyu" height="30" width="40" /></a>
 <a href="https://instagram.com/iam_vinojan" target="blank"><img align="center" src="img/instagram.svg" alt="iam_vinojan" height="30" width="40" /></a>
