@@ -138,7 +138,7 @@ Here are some ideas to get you started:
 <h3 align="left">Support:</h3>
 <!-- <p><a href="https://www.buymeacoffee.com/iamvinojan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamvinojan" /></a></p><br><br> -->
 
-<p align="left">
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinojan1999&show_icons=true&locale=en&layout=compact" alt="vinojan1999" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=vinojan1999&show_icons=true&locale=en" alt="vinojan1999" />
 </p>
