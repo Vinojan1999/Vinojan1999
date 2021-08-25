@@ -26,10 +26,6 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=vinojan1999&label=Profile%20views&color=0e75b6&style=flat" alt="vinojan1999" /> 
 </p>
 
-<!-- Twitter User name and Follower -->
-<p align="left">
-<a href="https://twitter.com/iam_vinojan" target="blank"><img src="https://img.shields.io/twitter/follow/iam_vinojan?logo=twitter&style=for-the-badge" alt="iam_vinojan" /></a> 
-</p>
 
 
 <!--//////////// About my self ////////////////-->
@@ -59,6 +55,11 @@ Here are some ideas to get you started:
 <a href="https://fb.com/vinojan.abhimanyu" target="blank"><img align="center" src="img/facebook.svg" alt="vinojan.abhimanyu" height="30" width="40" /></a>
 <a href="https://instagram.com/iam_vinojan" target="blank"><img align="center" src="img/instagram.svg" alt="iam_vinojan" height="30" width="40" /></a>
 <a href="https://medium.com/@iam_vinojan" target="blank"><img align="center" src="img/medium.svg" alt="@iam_vinojan" height="30" width="40" /></a>
+</p>
+
+<!-- Twitter User name and Follower -->
+<p align="left">
+<a href="https://twitter.com/iam_vinojan" target="blank"><img src="https://img.shields.io/twitter/follow/iam_vinojan?logo=twitter&style=for-the-badge" alt="iam_vinojan" /></a> 
 </p>
 
 <!-- ///////////// Languages ///////////// -->
