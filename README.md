@@ -1,9 +1,7 @@
 <!-- ### Hi there  <img src="img/Hi.gif" width="20"> -->
-## Hey <img src="img/Hi.gif" width="30px">, 
-
+## Hello there <img src="img/Hi.gif" width="30px">, 
 </h2>
 
-<hr/>
 
 <!--
 **Vinojan1999/Vinojan1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +23,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">I'm Vinojan Veerapathirathasan</h1>
 <h3 align="center">Undergraduate of Software Engineering, University of Kelaniya.</h3>
+
+<hr/>
 
 <!-- Counter of profile viewers -->
 <p align="left"> 
