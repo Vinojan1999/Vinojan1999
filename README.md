@@ -1,4 +1,9 @@
-### Hi there  <img src="img/Hi.gif" width="20">
+<!-- ### Hi there  <img src="img/Hi.gif" width="20"> -->
+## Hey <img src="img/Hi.gif" width="30px">, 
+
+</h2>
+
+<hr/>
 
 <!--
 **Vinojan1999/Vinojan1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +38,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **ML & AI, E-Vehicle Design**
 
-- 🤝 I’m looking for help with my own startup project of **Minimax.studio**
+- 🤝 I’m currently doing my own startup project of **Minimax.studio**
 
 - 👨‍💻 All of my projects are available at [vinojan.herokuapp.com](vinojan.herokuapp.com)
 
