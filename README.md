@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+### Hi there  <img src="img/Hi.gif" width="25">
 
 <!--
 **Vinojan1999/Vinojan1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- ////////////////// START README FILE /////////////////// -->
 
-<h1 align="center">Hi there  <img src="img/Hi.gif" width="25"> I'm Vinojan Veerapathirathasan</h1>
+<h1 align="center">I'm Vinojan Veerapathirathasan</h1>
 <h3 align="center">Undergraduate of Software Engineering, University of Kelaniya.</h3>
 
 <!-- Counter of profile viewers -->
