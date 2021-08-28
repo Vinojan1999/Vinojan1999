@@ -1,4 +1,4 @@
-### Hi there  <img src="img/Hi.gif" width="25">
+### Hi there  <img src="img/Hi.gif" width="20">
 
 <!--
 **Vinojan1999/Vinojan1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
