@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Vinojan1999/Vinojan1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- ////////////////// START README FILE /////////////////// -->
 
-<h1 align="center">I'm Vinojan Veerapathirathasan</h1>
+<h1 align="center">Hi there 👋 I'm Vinojan Veerapathirathasan</h1>
 <h3 align="center">Undergraduate of Software Engineering, University of Kelaniya.</h3>
 
 <!-- Counter of profile viewers -->
@@ -129,10 +129,10 @@ Here are some ideas to get you started:
 </p>
 
 
-<h3 align="left">Trophy:</h3>
+<!-- <h3 align="left">Trophy:</h3>
 <p align="left"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinojan1999" alt="vinojan1999" /></a> 
-</p>
+</p> -->
 
 
 <!-- ///////////// Support //////////////// -->
@@ -141,6 +141,8 @@ Here are some ideas to get you started:
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinojan1999&show_icons=true&locale=en" alt="vinojan1999" /></p>
+
+<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/git.png?raw=true"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinojan1999&" alt="vinojan1999" /></p>
 
