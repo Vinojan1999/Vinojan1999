@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - Build Your Own Operating System 👉 [Part-1](https://medium.com/@iam_vinojan/build-your-own-operating-system-os-431e7716a1d1) | [Part-2](https://medium.com/@iam_vinojan/build-your-own-operating-system-2-e3c99311948) | [Part-3](https://medium.com/@iam_vinojan/build-your-own-operating-system-3-bbea2c30521f) | [Part-4](https://medium.com/@iam_vinojan/build-your-own-operating-system-4-ac9478ce9535) | [Part-5](https://medium.com/@iam_vinojan/build-your-own-operating-system-5-3bfde3b64384) | [Part-6](https://medium.com/@iam_vinojan/build-your-own-operating-system-6-c88d8b1d356f)
+
+- More articles 👉 [Software Licenses](https://medium.com/@iam_vinojan/software-licenses-f22eadc77765) & [Heuristic Evaluation](https://medium.com/@iam_vinojan/heuristic-evaluation-68de659324c9)
 <!-- BLOG-POST-LIST:END -->
 
 
