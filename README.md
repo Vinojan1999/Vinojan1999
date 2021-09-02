@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 
 
 <!--//////////// About my self ////////////////-->
-- 🔭 I’m currently working on [Adventure Club's Website](ac-uok.com)
+- 🔭 I’m currently working on [Adventure Club's Website](https://ac-uok.com/)
 
 - 🌱 I’m currently learning **ML & AI, E-Vehicle Design**
 
 - 🤝 I’m currently doing my own startup project of **Minimax.studio**
 
-- 👨‍💻 All of my projects are available at [vinojan.herokuapp.com](vinojan.herokuapp.com)
+- 👨‍💻 All of my projects are available at [vinojan.herokuapp.com](http://vinojan.herokuapp.com)
 
 - 📝 I regularly write articles on [https://medium.com/@iam_vinojan](https://medium.com/@iam_vinojan)
 
