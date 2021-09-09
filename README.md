@@ -169,12 +169,6 @@ Here are some ideas to get you started:
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 <br/> -->
 
-<!-- <h3 align="left">Trophy:</h3>
-<p align="left"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinojan1999" alt="vinojan1999" /></a> 
-</p> -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=vinojan1999&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 
 <!-- ///////////// Support //////////////// -->
@@ -189,3 +183,8 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinojan1999&show_icons=true&locale=en&layout=compact" alt="vinojan1999" /></p>
 
+
+<h3 align="left">Trophy:</h3>
+<p align="center"> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=vinojan1999&theme=monokai)]()
+</p>
