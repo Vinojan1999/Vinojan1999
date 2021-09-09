@@ -1,5 +1,5 @@
 <!-- ### Hi there  <img src="img/Hi.gif" width="20"> -->
-## Hello there <img src="img/Hi.gif" width="30px">, 
+## Hello there <img src="img/Hi.gif" width="30px">
 </h2>
 
 
