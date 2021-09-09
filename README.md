@@ -173,7 +173,7 @@ Here are some ideas to get you started:
 <p align="left"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinojan1999" alt="vinojan1999" /></a> 
 </p> -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vinojan1999&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
 
 
