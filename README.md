@@ -170,6 +170,13 @@ Here are some ideas to get you started:
 <br/> -->
 
 
+<h3 align="left">Trophy:</h3>
+<p align="center"> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vinojan1999&theme=monokai)]()
+</p>
+
+
 
 <!-- ///////////// Support //////////////// -->
 <h3 align="left">Support:</h3>
@@ -182,11 +189,4 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinojan1999&" alt="vinojan1999" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinojan1999&show_icons=true&locale=en&layout=compact" alt="vinojan1999" /></p>
-
-
-<h3 align="left">Trophy:</h3>
-<p align="center"> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vinojan1999&theme=monokai)]()
-</p>
 
