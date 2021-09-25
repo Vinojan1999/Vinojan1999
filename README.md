@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/iam_vinojan" target="blank"><img src="https://img.shields.io/twitter/follow/iam_vinojan?logo=twitter&style=for-the-badge" alt="iam_vinojan" /></a> 
 </p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/iam_vinojan?logo=Twitter&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/iam_vinojan?logo=Twitter&style=plastic)
 
 
 <!-- ///////////// Languages ///////////// -->
