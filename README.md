@@ -11,11 +11,11 @@
 <p align="center"> Never let anyone tell you that <b>"You can't"</b> Because can't is a word I eliminate from my vocabulary and replace it with <b>Strength</b>..!</p>
 
 <p align="center">
-<a href="https://twitter.com/iam_vinojan" target="blank"><img align="center" src="img/twitter.svg" alt="iam_vinojan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vinojan-abhimanyu" target="blank"><img align="center" src="img/linkedin.svg" alt="vinojan-abhimanyu" height="25" width="25" /></a>
-<a href="https://fb.com/vinojan.abhimanyu" target="blank"><img align="center" src="img/facebook.svg" alt="vinojan.abhimanyu" height="30" width="30" /></a>
-<a href="https://instagram.com/iam_vinojan" target="blank"><img align="center" src="img/instagram.svg" alt="iam_vinojan" height="30" width="40" /></a>
-<a href="https://medium.com/@iam_vinojan" target="blank"><img align="center" src="img/medium.svg" alt="@iam_vinojan" height="30" width="40" /></a>
+<a href="https://twitter.com/iam_vinojan" target="blank"><img align="center" src="img/twitter.svg" alt="iam_vinojan" height="25" width="25" /></a> &nbsp;&nbsp;
+<a href="https://linkedin.com/in/vinojan-abhimanyu" target="blank"><img align="center" src="img/linkedin.svg" alt="vinojan-abhimanyu" height="25" width="25" /></a> &nbsp;&nbsp;
+<a href="https://fb.com/vinojan.abhimanyu" target="blank"><img align="center" src="img/facebook.svg" alt="vinojan.abhimanyu" height="25" width="25" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/iam_vinojan" target="blank"><img align="center" src="img/instagram.svg" alt="iam_vinojan" height="25" width="25" /></a> &nbsp;&nbsp;
+<a href="https://medium.com/@iam_vinojan" target="blank"><img align="center" src="img/medium.svg" alt="@iam_vinojan" height="25" width="25" /></a>
 </p>
 <hr/>
 
