@@ -1,5 +1,5 @@
 <!-- ### Hi there  <img src="img/Hi.gif" width="20"> -->
-## Hello there <img src="img/Hi.gif" width="30px">
+# Hello, folks! <img src="img/Hi.gif" width="30px">
 </h2>
 
 
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">I'm Vinojan Veerapathirathasan</h1>
 <h3 align="center">Undergraduate of Software Engineering, University of Kelaniya.</h3>
+<h2 align="center"> Never let anyone tell you that <b>"You can't"</b> Because can't is a word I eliminate from my vocabulary and replace it with Strength..!</h2>
 
 <hr/>
 
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **vinojan02abhimanyu@gmail.com**
 
 <!--////////////// Blog section ///////////// -->
-### Blogs posts
+## Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - Build Your Own Operating System 👉 [Part-1](https://medium.com/@iam_vinojan/build-your-own-operating-system-os-431e7716a1d1) | [Part-2](https://medium.com/@iam_vinojan/build-your-own-operating-system-2-e3c99311948) | [Part-3](https://medium.com/@iam_vinojan/build-your-own-operating-system-3-bbea2c30521f) | [Part-4](https://medium.com/@iam_vinojan/build-your-own-operating-system-4-ac9478ce9535) | [Part-5](https://medium.com/@iam_vinojan/build-your-own-operating-system-5-3bfde3b64384) | [Part-6](https://medium.com/@iam_vinojan/build-your-own-operating-system-6-c88d8b1d356f)
 
@@ -56,7 +57,8 @@ Here are some ideas to get you started:
 
 
 <!-- //////// Contact Details /////////////-->
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
+## Contact Information
 <p align="left">
 <a href="https://twitter.com/iam_vinojan" target="blank"><img align="center" src="img/twitter.svg" alt="iam_vinojan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vinojan-abhimanyu" target="blank"><img align="center" src="img/linkedin.svg" alt="vinojan-abhimanyu" height="30" width="40" /></a>
@@ -73,7 +75,8 @@ Here are some ideas to get you started:
 
 
 <!-- ///////////// Languages ///////////// -->
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3> -->
+## Languages & Tools
 <p align="left"> 
 <!-- HTML -->
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -120,7 +123,8 @@ Here are some ideas to get you started:
 </p>
 
 <!-- ///////////// Softwares //////////////// -->
-<h3 align="left">Softwares:</h3>
+<!-- <h3 align="left">Softwares:</h3> -->
+## Softwares
 <p align="left">
 <!-- Adobe PS -->
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="img/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/> </a> 
@@ -141,7 +145,8 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left">Trophy:</h3>
+<!-- <h3 align="left">Trophy:</h3> -->
+## Trophy
 <p align="center"> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vinojan1999&theme=monokai)]()
@@ -150,7 +155,8 @@ Here are some ideas to get you started:
 
 
 <!-- ///////////// Support //////////////// -->
-<h3 align="left">Support:</h3>
+<!-- <h3 align="left">Support:</h3> -->
+## GitHub Stats
 <!-- <p><a href="https://www.buymeacoffee.com/iamvinojan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamvinojan" /></a></p><br><br> -->
 
 
