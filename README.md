@@ -28,7 +28,7 @@
 
 
 <!--//////////// About my self ////////////////-->
-🔅 Founder & CEO at **Minimax Studio**®️ 🏬
+🔅 Founder & CEO at **Minimax Studio** ®️ <img src="img/MS.png" alt="Minimax Studio" width="20" height="20"/>
 
 🔅 Currently working on 💼
 - [Adventure Club - UOK](https://ac-uok.com/)
