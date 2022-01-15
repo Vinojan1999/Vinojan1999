@@ -10,6 +10,13 @@
 
 <p align="center"> Never let anyone tell you that <b>"You can't"</b> Because can't is a word I eliminate from my vocabulary and replace it with <b>Strength</b>..!</p>
 
+<p align="center">
+<a href="https://twitter.com/iam_vinojan" target="blank"><img align="center" src="img/twitter.svg" alt="iam_vinojan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vinojan-abhimanyu" target="blank"><img align="center" src="img/linkedin.svg" alt="vinojan-abhimanyu" height="30" width="40" /></a>
+<a href="https://fb.com/vinojan.abhimanyu" target="blank"><img align="center" src="img/facebook.svg" alt="vinojan.abhimanyu" height="30" width="40" /></a>
+<a href="https://instagram.com/iam_vinojan" target="blank"><img align="center" src="img/instagram.svg" alt="iam_vinojan" height="30" width="40" /></a>
+<a href="https://medium.com/@iam_vinojan" target="blank"><img align="center" src="img/medium.svg" alt="@iam_vinojan" height="30" width="40" /></a>
+</p>
 <hr/>
 
 <!-- Counter of profile viewers -->
@@ -20,18 +27,20 @@
 
 
 <!--//////////// About my self ////////////////-->
+<div align="left">
 - 🔭 I’m currently working on [Adventure Club's Website](https://ac-uok.com/)
 
 - 🌱 I’m currently learning **ML & AI, E-Vehicle Design**
 
 - 🤝 I’m currently doing my own startup project of **Minimax.studio**
-
+</div>
+<div align="right">
 - 👨‍💻 All of my projects are available at [vinojan.herokuapp.com](http://vinojan.herokuapp.com)
 
 - 📝 I regularly write articles on [https://medium.com/@iam_vinojan](https://medium.com/@iam_vinojan)
 
 - 📫 How to reach me **vinojan02abhimanyu@gmail.com**
-
+</div>
 <!--////////////// Blog section ///////////// -->
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -42,15 +51,8 @@
 
 
 <!-- //////// Contact Details /////////////-->
-<!-- <h3 align="left">Connect with me:</h3> -->
-## Contact Information
-<p align="left">
-<a href="https://twitter.com/iam_vinojan" target="blank"><img align="center" src="img/twitter.svg" alt="iam_vinojan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vinojan-abhimanyu" target="blank"><img align="center" src="img/linkedin.svg" alt="vinojan-abhimanyu" height="30" width="40" /></a>
-<a href="https://fb.com/vinojan.abhimanyu" target="blank"><img align="center" src="img/facebook.svg" alt="vinojan.abhimanyu" height="30" width="40" /></a>
-<a href="https://instagram.com/iam_vinojan" target="blank"><img align="center" src="img/instagram.svg" alt="iam_vinojan" height="30" width="40" /></a>
-<a href="https://medium.com/@iam_vinojan" target="blank"><img align="center" src="img/medium.svg" alt="@iam_vinojan" height="30" width="40" /></a>
-</p>
+
+
 
 <!-- Twitter User name and Follower -->
 <!-- <p align="left">
