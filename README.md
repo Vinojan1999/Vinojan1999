@@ -11,12 +11,12 @@
 <p align="center"> Never let anyone tell you that <b>"You can't"</b> Because can't is a word I eliminate from my vocabulary and replace it with <b>Strength</b>..!</p>
 
 <p align="center">
-<a href="https://twitter.com/iam_vinojan" target="blank"><img align="center" src="img/twitter1.svg" alt="iam_vinojan" height="25" width="25" /></a> &nbsp;&nbsp;
-<a href="https://linkedin.com/in/vinojan-abhimanyu" target="blank"><img align="center" src="img/linkedin1.svg" alt="vinojan-abhimanyu" height="25" width="25" /></a> &nbsp;&nbsp;
-<a href="https://fb.com/vinojan.abhimanyu" target="blank"><img align="center" src="img/facebook1.svg" alt="vinojan.abhimanyu" height="25" width="25" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/iam_vinojan" target="blank"><img align="center" src="img/instagram1.svg" alt="iam_vinojan" height="25" width="25" /></a> &nbsp;&nbsp;
-<a href="https://medium.com/@iam_vinojan" target="blank"><img align="center" src="img/medium1.svg" alt="@iam_vinojan" height="25" width="25" /></a> &nbsp;&nbsp;
-<a href="vinojan02abhimanyu@gmail.com" target="blank"><img align="center" src="img/gmail.svg" alt="vinojan02abhimanyu@gmail.com" height="25" width="25" /></a>
+<a href="https://twitter.com/iam_vinojan" target="blank"><img align="center" src="img/twitter1.svg" alt="iam_vinojan" height="35" width="35" /></a>
+<a href="https://linkedin.com/in/vinojan-abhimanyu" target="blank"><img align="center" src="img/linkedin1.svg" alt="vinojan-abhimanyu" height="35" width="35" /></a>
+<a href="https://fb.com/vinojan.abhimanyu" target="blank"><img align="center" src="img/facebook1.svg" alt="vinojan.abhimanyu" height="35" width="35" /></a>
+<a href="https://instagram.com/iam_vinojan" target="blank"><img align="center" src="img/instagram1.svg" alt="iam_vinojan" height="35" width="35" /></a>
+<a href="https://medium.com/@iam_vinojan" target="blank"><img align="center" src="img/medium1.svg" alt="@iam_vinojan" height="35" width="35" /></a>
+<a href="vinojan02abhimanyu@gmail.com" target="blank"><img align="center" src="img/gmail.svg" alt="vinojan02abhimanyu@gmail.com" height="35" width="35" /></a>
 </p>
 <!-- https://icons8.com/icons/ -->
 <hr/>
