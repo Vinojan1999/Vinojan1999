@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">I'm Vinojan Veerapathirathasan</h1>
 <h3 align="center">Undergraduate of Software Engineering, University of Kelaniya.</h3>
-<h2 align="center"> Never let anyone tell you that <b>"You can't"</b> Because can't is a word I eliminate from my vocabulary and replace it with Strength..!</h2>
+<p align="center"> Never let anyone tell you that <b>"You can't"</b> Because can't is a word I eliminate from my vocabulary and replace it with Strength..!</p>
 
 <hr/>
 
@@ -68,9 +68,9 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Twitter User name and Follower -->
-<p align="left">
+<!-- <p align="left">
 <a href="https://twitter.com/iam_vinojan" target="blank"><img src="https://img.shields.io/twitter/follow/iam_vinojan?logo=twitter&style=for-the-badge" alt="iam_vinojan" /></a> 
-</p>
+</p> -->
 
 
 
@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 
 <!-- ///////////// Softwares //////////////// -->
 <!-- <h3 align="left">Softwares:</h3> -->
-## Softwares
+##
 <p align="left">
 <!-- Adobe PS -->
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="img/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/> </a> 
@@ -159,11 +159,28 @@ Here are some ideas to get you started:
 ## GitHub Stats
 <!-- <p><a href="https://www.buymeacoffee.com/iamvinojan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamvinojan" /></a></p><br><br> -->
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinojan1999&show_icons=true&locale=en" alt="vinojan1999" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinojan1999&show_icons=true&locale=en" alt="vinojan1999" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinojan1999&" alt="vinojan1999" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinojan1999&show_icons=true&locale=en&layout=compact" alt="vinojan1999" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinojan1999&show_icons=true&locale=en&layout=compact" alt="vinojan1999" /></p> -->
+
+<!-- /////////////////////// -->
+
+<a href="https://github.com/Vinojan1999/Vinojan1999">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinojan1999&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/Vinojan1999/Vinojan1999">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vinojan1999&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vinojan's GitHub Stats" />
+</a>
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsadisha&repo=Report-Generation-System&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adventure-Club-mob&repo=Website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
 
