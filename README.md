@@ -66,51 +66,51 @@
 ## Languages & Tools
 <p align="left"> 
 <!-- HTML -->
-<a target="_blank"> <img src="html-5.svg" alt="html5" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="img/html-5.svg" alt="html5" width="30" height="30"/> </a> 
 <!-- CSS -->
-<a target="_blank"> <img src="img/css-3.svg" alt="css3" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="img/css-3.svg" alt="css3" width="30" height="30"/> </a> 
 <!-- JS -->
-<a target="_blank"> <img src="img/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="img/javascript.svg" alt="javascript" width="30" height="30"/> </a> 
 <!-- Bootstrap -->
-<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> 
 <!-- React JS -->
-<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> 
 <!-- Node JS -->
-<a target="_blank"> <img src="img/nodejs-seeklogo.com.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="img/nodejs-seeklogo.com.svg" alt="nodejs" width="30" height="30"/> </a> 
 <!-- Vue JS -->
-<a target="_blank"> <img src="img/vue-js.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="img/vue-js.svg" alt="nodejs" width="30" height="30"/> </a> 
 <!-- Angular JS -->
-<a target="_blank"> <img src="img/angularjs.svg" alt="angular" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="img/angularjs.svg" alt="angular" width="30" height="30"/> </a> 
 <!-- Express JS -->
-<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> </a> 
 <!-- C -->
-<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
  <!-- Java  -->
-<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> 
 <!-- PHP -->
-<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a> 
 <!-- Python -->
-<a target="_blank"> <img src="img/python.svg" alt="python" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="img/python.svg" alt="python" width="30" height="30"/> </a> 
 <!-- Firebase -->
-<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> 
 <!-- Mongo DB -->
-<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a> 
 <!-- Vue JS -->
-<a target="_blank"> <img src="img/npm.svg" alt="npm" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="img/npm.svg" alt="npm" width="30" height="30"/> </a> 
 <!-- MySQL -->
-<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> 
 <!-- GIT -->
-<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
 <!-- Heroku -->
-<a target="_blank"> <img src="img/heroku.svg" alt="heroku" width="40" height="40"/> </a>
+<a target="_blank"> <img src="img/heroku.svg" alt="heroku" width="30" height="30"/> </a>
 <!-- Linux -->
-<a target="_blank"> <img src="img/linux.svg" alt="linux" width="40" height="40"/> </a>  
+<a target="_blank"> <img src="img/linux.svg" alt="linux" width="30" height="30"/> </a>  
 <!-- React Native -->
-<a target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/> </a> 
 <!-- Sass -->
-<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> </a>
 <!-- JSON -->
-<a target="_blank"> <img src="img/json.svg" alt="JSON" width="40" height="40"/> </a>
+<a target="_blank"> <img src="img/json.svg" alt="JSON" width="30" height="30"/> </a>
 </p>
 
 <!-- ///////////// Softwares //////////////// -->
@@ -120,7 +120,7 @@
 <!-- Adobe PS -->
 <a target="_blank"> <img src="img/adobe-photoshop.svg" alt="photoshop" width="30" height="30"/> </a> 
 <!-- Adobe AI -->
-<a target="_blank"> <img src="img/adobe-illustrator.svg" alt="illustrator" width="30" height="30"/> </a>
+<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a>
 <!-- Adobe XD -->
 <a target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> </a>
 <!-- Figma -->
@@ -128,9 +128,9 @@
 <!-- AutoDesk -->
 <a target="_blank"> <img src="img/autocad.svg" alt="autocad" width="30" height="30"/> </a> 
 <!-- MatLab -->
-<a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a>
 <!-- Postman -->
-<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
 </p>
 
 
