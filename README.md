@@ -1,29 +1,14 @@
-<!-- ### Hi there  <img src="img/Hi.gif" width="20"> -->
+
+[![Header](img/profile-banner.jpg "Header")](https://vinojan1999.github.io/)
+
 # Hello, folks! <img src="img/Hi.gif" width="30px">
 </h2>
-
-
-<!--
-**Vinojan1999/Vinojan1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 <!-- ////////////////// START README FILE /////////////////// -->
 
 <h1 align="center">I'm Vinojan Veerapathirathasan</h1>
-<h3 align="center">Undergraduate of Software Engineering, University of Kelaniya.</h3>
-<p align="center"> Never let anyone tell you that <b>"You can't"</b> Because can't is a word I eliminate from my vocabulary and replace it with Strength..!</p>
+
+<p align="center"> Never let anyone tell you that <b>"You can't"</b> Because can't is a word I eliminate from my vocabulary and replace it with <b>Strength</b>..!</p>
 
 <hr/>
 
@@ -159,12 +144,8 @@ Here are some ideas to get you started:
 ## GitHub Stats
 <!-- <p><a href="https://www.buymeacoffee.com/iamvinojan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamvinojan" /></a></p><br><br> -->
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinojan1999&show_icons=true&locale=en" alt="vinojan1999" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinojan1999&" alt="vinojan1999" /></p> -->
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinojan1999&" alt="vinojan1999" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinojan1999&show_icons=true&locale=en&layout=compact" alt="vinojan1999" /></p> -->
 
 <!-- /////////////////////// -->
 
