@@ -75,9 +75,8 @@ Here are some ideas to get you started:
 
 
 <!-- ///////////// Languages ///////////// -->
-##
-<h3 align="left">Languages & Tools</h3>
-<!-- ## Languages & Tools -->
+<!-- <h3 align="left">Languages and Tools:</h3> -->
+## Languages & Tools
 <p align="left"> 
 <!-- HTML -->
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -145,8 +144,9 @@ Here are some ideas to get you started:
 
 
 
-##
-<h3 align="left">Trophy</h3>
+
+<!-- <h3 align="left">Trophy:</h3> -->
+## Trophy
 <p align="center"> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vinojan1999&theme=monokai)]()
@@ -155,17 +155,16 @@ Here are some ideas to get you started:
 
 
 <!-- ///////////// Support //////////////// -->
-##
-<h3 align="left">GitHub Stats</h3>
-
+<!-- <h3 align="left">Support:</h3> -->
+## GitHub Stats
 <!-- <p><a href="https://www.buymeacoffee.com/iamvinojan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamvinojan" /></a></p><br><br> -->
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinojan1999&show_icons=true&locale=en" alt="vinojan1999" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinojan1999&show_icons=true&locale=en" alt="vinojan1999" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinojan1999&" alt="vinojan1999" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinojan1999&show_icons=true&locale=en&layout=compact" alt="vinojan1999" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinojan1999&show_icons=true&locale=en&layout=compact" alt="vinojan1999" /></p>
 
 <!-- /////////////////////// -->
 
