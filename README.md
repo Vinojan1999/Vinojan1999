@@ -1,8 +1,8 @@
 
-[![Header](img/profile-banner.jpg "Header")](https://vinojan1999.github.io/)
-
 # Hello, folks! <img src="img/Hi.gif" width="30px">
-</h2>
+
+[![Header](img/profile-banner.png "Header")](https://vinojan1999.github.io/)
+
 
 <!-- ////////////////// START README FILE /////////////////// -->
 
