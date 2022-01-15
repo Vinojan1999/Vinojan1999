@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="img/Hi.gif" width="30px">
 
-[![Header](img/profile-banner.png "Header")](https://vinojan1999.github.io/)
+[![Header](img/profile-banner.png "Header")]()
 
 
 <!-- ////////////////// START README FILE /////////////////// -->
@@ -11,12 +11,14 @@
 <p align="center"> Never let anyone tell you that <b>"You can't"</b> Because can't is a word I eliminate from my vocabulary and replace it with <b>Strength</b>..!</p>
 
 <p align="center">
-<a href="https://twitter.com/iam_vinojan" target="blank"><img align="center" src="img/twitter.svg" alt="iam_vinojan" height="25" width="25" /></a> &nbsp;&nbsp;
-<a href="https://linkedin.com/in/vinojan-abhimanyu" target="blank"><img align="center" src="img/linkedin.svg" alt="vinojan-abhimanyu" height="25" width="25" /></a> &nbsp;&nbsp;
-<a href="https://fb.com/vinojan.abhimanyu" target="blank"><img align="center" src="img/facebook.svg" alt="vinojan.abhimanyu" height="25" width="25" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/iam_vinojan" target="blank"><img align="center" src="img/instagram.svg" alt="iam_vinojan" height="25" width="25" /></a> &nbsp;&nbsp;
-<a href="https://medium.com/@iam_vinojan" target="blank"><img align="center" src="img/medium.svg" alt="@iam_vinojan" height="25" width="25" /></a>
+<a href="https://twitter.com/iam_vinojan" target="blank"><img align="center" src="img/twitter1.svg" alt="iam_vinojan" height="25" width="25" /></a> &nbsp;&nbsp;
+<a href="https://linkedin.com/in/vinojan-abhimanyu" target="blank"><img align="center" src="img/linkedin1.svg" alt="vinojan-abhimanyu" height="25" width="25" /></a> &nbsp;&nbsp;
+<a href="https://fb.com/vinojan.abhimanyu" target="blank"><img align="center" src="img/facebook1.svg" alt="vinojan.abhimanyu" height="25" width="25" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/iam_vinojan" target="blank"><img align="center" src="img/instagram1.svg" alt="iam_vinojan" height="25" width="25" /></a> &nbsp;&nbsp;
+<a href="https://medium.com/@iam_vinojan" target="blank"><img align="center" src="img/medium1.svg" alt="@iam_vinojan" height="25" width="25" /></a> &nbsp;&nbsp;
+<a href="vinojan02abhimanyu@gmail.com" target="blank"><img align="center" src="img/gmail.svg" alt="vinojan02abhimanyu@gmail.com" height="25" width="25" /></a>
 </p>
+<!-- https://icons8.com/icons/ -->
 <hr/>
 
 <!-- Counter of profile viewers -->
@@ -25,19 +27,22 @@
 </p>
 
 
-
 <!--//////////// About my self ////////////////-->
-- 🔭 I’m currently working on [Adventure Club's Website](https://ac-uok.com/)
+🔅 I’m currently learning **ML & AI, E-Vehicle Design**
+- 
 
-- 🌱 I’m currently learning **ML & AI, E-Vehicle Design**
+🔅 Currently working on 
+- [Adventure Club's Website](https://ac-uok.com/)
+- [TOWNCHIC](https://townchic.co/)
+- [Eventers-Event](https://eventersevents.com/)
 
-- 🤝 I’m currently doing my own startup project of **Minimax.studio**
+🔅 I’m currently doing my own startup project of **Minimax.studio**
 
-- 👨‍💻 All of my projects are available at [vinojan.herokuapp.com](http://vinojan.herokuapp.com)
+🔅 All of my projects are available at [vinojan.herokuapp.com](http://vinojan.herokuapp.com)
 
-- 📝 I regularly write articles on [https://medium.com/@iam_vinojan](https://medium.com/@iam_vinojan)
+🔅 I regularly write articles on [https://medium.com/@iam_vinojan](https://medium.com/@iam_vinojan)
 
-- 📫 How to reach me **vinojan02abhimanyu@gmail.com**
+🔅 How to reach me **vinojan02abhimanyu@gmail.com**
 
 <!--////////////// Blog section ///////////// -->
 ## Blogs posts
