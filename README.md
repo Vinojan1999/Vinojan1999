@@ -28,25 +28,23 @@
 
 
 <!--//////////// About my self ////////////////-->
-🔅 I’m currently learning **ML & AI, E-Vehicle Design**
+🔅 Founder & CEO at **Minimax Studio**®️ 🏬
 
-🔅 <h4>Currently working on</h4> 👨‍💻
-- [Adventure Club's Website](https://ac-uok.com/)
+🔅 Currently working on 💼
+- [Adventure Club - UOK](https://ac-uok.com/)
 - [TOWNCHIC](https://townchic.co/)
 - [Eventers-Event](https://eventersevents.com/)
+- [BookBae](https://www.bookbae.store/)
 
-🔅 I’m currently doing my own startup project of **Minimax.studio**
+🔅 Checkout my profile on [vinojan.herokuapp.com](http://vinojan.herokuapp.com) 👨‍💻
 
-🔅 All of my projects are available at [vinojan.herokuapp.com](http://vinojan.herokuapp.com)
-
-🔅 I regularly write articles on [https://medium.com/@iam_vinojan](https://medium.com/@iam_vinojan)
-
-🔅 How to reach me **vinojan02abhimanyu@gmail.com**
+🔅 Touch with my articles on [Medium](https://medium.com/@iam_vinojan) 📝
 
 <!--////////////// Blog section ///////////// -->
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- Build Your Own Operating System 👉 [Part-1](https://medium.com/@iam_vinojan/build-your-own-operating-system-os-431e7716a1d1) | [Part-2](https://medium.com/@iam_vinojan/build-your-own-operating-system-2-e3c99311948) | [Part-3](https://medium.com/@iam_vinojan/build-your-own-operating-system-3-bbea2c30521f) | [Part-4](https://medium.com/@iam_vinojan/build-your-own-operating-system-4-ac9478ce9535) | [Part-5](https://medium.com/@iam_vinojan/build-your-own-operating-system-5-3bfde3b64384) | [Part-6](https://medium.com/@iam_vinojan/build-your-own-operating-system-6-c88d8b1d356f)
+- Build Your Own Operating System 👉 [Part-1](https://medium.com/@iam_vinojan/build-your-own-operating-system-os-431e7716a1d1) | [Part-2](https://medium.com/@iam_vinojan/build-your-own-operating-system-2-e3c99311948) | [Part-3](https://medium.com/@iam_vinojan/build-your-own-operating-system-3-bbea2c30521f) | [Part-4](https://medium.com/@iam_vinojan/build-your-own-operating-system-4-ac9478ce9535) | [Part-5](https://medium.com/@iam_vinojan/build-your-own-operating-system-5-3bfde3b64384) | [Part-6](https://medium.com/@iam_vinojan/build-your-own-operating-system-6-c88d8b1d356f) | [Part-7](https://medium.com/@iam_vinojan/build-your-own-operating-system-7-41a2a9f8843b) | [Part-8](https://medium.com/@iam_vinojan/build-your-own-operating-system-8-c88018bff23) | [Part-9](https://medium.com/@iam_vinojan/build-your-own-operating-system-9-9244351b065)
+
 
 - More articles 👉 [Software Licenses](https://medium.com/@iam_vinojan/software-licenses-f22eadc77765) & [Heuristic Evaluation](https://medium.com/@iam_vinojan/heuristic-evaluation-68de659324c9)
 <!-- BLOG-POST-LIST:END -->
