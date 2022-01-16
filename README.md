@@ -93,6 +93,14 @@
 <a target="_blank"> <img src="img/python.svg" alt="python" width="30" height="30"/> </a> 
 <!-- Firebase -->
 <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> 
+<!-- Flutter -->
+<a target="_blank"> <img src="img/flutter.svg" alt="angular" width="30" height="30"/> </a> 
+<!-- Kotlin -->
+<a target="_blank"> <img src="img/kotlin.svg" alt="angular" width="30" height="30"/> </a> 
+<!-- Ruby -->
+<a target="_blank"> <img src="img/ruby.svg" alt="angular" width="30" height="30"/> </a> 
+<!-- Swift -->
+<a target="_blank"> <img src="img/swift.svg" alt="angular" width="30" height="30"/> </a> 
 <!-- Mongo DB -->
 <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a> 
 <!-- Vue JS -->
@@ -129,6 +137,10 @@
 <a target="_blank"> <img src="img/autocad.svg" alt="autocad" width="30" height="30"/> </a> 
 <!-- MatLab -->
 <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a>
+<!-- Android Studio -->
+<a target="_blank"> <img src="img/android-studio.svg" alt="angular" width="30" height="30"/> </a>
+<!-- VS code -->
+<a target="_blank"> <img src="img/vs-code.svg" alt="angular" width="30" height="30"/> </a>  
 <!-- Postman -->
 <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
 </p>
