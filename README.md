@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="img/Hi.gif" width="30px">
 
-[![Header](img/profile-banner.png "Header")]()
+[![Header](img/profile-banner.png "Header")](https://vinojan1999.github.io)
 
 
 <!-- ////////////////// START README FILE /////////////////// -->
@@ -11,12 +11,12 @@
 <p align="center"> Never let anyone tell you that <b>"You can't"</b> Because can't is a word I eliminate from my vocabulary and replace it with <b>Strength</b>..!</p>
 
 <p align="center">
-<a href="https://twitter.com/iam_vinojan" target="blank"><img align="center" src="img/twitter1.svg" alt="iam_vinojan" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/vinojan-abhimanyu" target="blank"><img align="center" src="img/linkedin1.svg" alt="vinojan-abhimanyu" height="40" width="40" /></a>
-<a href="https://fb.com/vinojan.abhimanyu" target="blank"><img align="center" src="img/facebook1.svg" alt="vinojan.abhimanyu" height="40" width="40" /></a>
-<a href="https://instagram.com/iam_vinojan" target="blank"><img align="center" src="img/instagram1.svg" alt="iam_vinojan" height="40" width="40" /></a>
-<a href="https://medium.com/@iam_vinojan" target="blank"><img align="center" src="img/medium1.svg" alt="@iam_vinojan" height="40" width="40" /></a>
-<a href="vinojan02abhimanyu@gmail.com" target="blank"><img align="center" src="img/gmail.svg" alt="vinojan02abhimanyu@gmail.com" height="40" width="40" /></a>
+<a href="https://twitter.com/iam_vinojan" target="_blank"><img align="center" src="img/twitter1.svg" alt="iam_vinojan" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/vinojan-abhimanyu" target="_blank"><img align="center" src="img/linkedin1.svg" alt="vinojan-abhimanyu" height="40" width="40" /></a>
+<a href="https://fb.com/vinojan.abhimanyu" target="_blank"><img align="center" src="img/facebook1.svg" alt="vinojan.abhimanyu" height="40" width="40" /></a>
+<a href="https://instagram.com/iam_vinojan" target="_blank"><img align="center" src="img/instagram1.svg" alt="iam_vinojan" height="40" width="40" /></a>
+<a href="https://medium.com/@iam_vinojan" target="_blank"><img align="center" src="img/medium1.svg" alt="@iam_vinojan" height="40" width="40" /></a>
+<a href="mailto:vinojan02abhimanyu@gmail.com" target="_blank"><img align="center" src="img/gmail.svg" alt="vinojan02abhimanyu@gmail.com" height="40" width="40" /></a>
 </p>
 <!-- https://icons8.com/icons/ -->
 <hr/>
@@ -36,9 +36,9 @@
 - [Eventers-Event](https://eventersevents.com/)
 - [BookBae](https://www.bookbae.store/)
 
-🔅 Checkout my profile on [vinojan.herokuapp.com](http://vinojan.herokuapp.com) 👨‍💻
+🔅 Get into touch with [My Profile](https://vinojan1999.github.io) 👨‍💻
 
-🔅 Touch with my articles on [Medium](https://medium.com/@iam_vinojan) 📝
+🔅 Lets checkout my articles on the [Medium](https://medium.com/@iam_vinojan) 📝
 
 <!--////////////// Blog section ///////////// -->
 ## Blogs posts
@@ -56,7 +56,7 @@
 
 <!-- Twitter User name and Follower -->
 <!-- <p align="left">
-<a href="https://twitter.com/iam_vinojan" target="blank"><img src="https://img.shields.io/twitter/follow/iam_vinojan?logo=twitter&style=for-the-badge" alt="iam_vinojan" /></a> 
+<a href="https://twitter.com/iam_vinojan" target="_blank"><img src="https://img.shields.io/twitter/follow/iam_vinojan?logo=twitter&style=for-the-badge" alt="iam_vinojan" /></a> 
 </p> -->
 
 
@@ -135,8 +135,10 @@
 <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> 
 <!-- AutoDesk -->
 <a target="_blank"> <img src="img/autocad.svg" alt="autocad" width="30" height="30"/> </a> 
+<!-- Lunacy -->
+<a target="_blank"> <img src="img/lunacy.svg" alt="lunacy" width="30" height="30"/> </a>
 <!-- MatLab -->
-<a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a>
+<!-- <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a> -->
 <!-- Android Studio -->
 <a target="_blank"> <img src="img/android-studio.svg" alt="angular" width="30" height="30"/> </a>
 <!-- VS code -->
