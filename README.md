@@ -28,7 +28,7 @@
 
 
 <!--//////////// About my self ////////////////-->
-🔅 Founder & CEO at **Minimax Studio** ®️
+🔅 Founder & CEO, Chief Designer at [**Minimax Studio**](https://minimax.studio/)
 
 🔅 Currently working on 💼
 - [Adventure Club - UOK](https://ac-uok.com/)
@@ -169,7 +169,7 @@
 
 <!-- /////////////////////// -->
 
-<a href="https://github.com/Vinojan1999/Vinojan1999">
+<a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinojan1999&show_icons=true&locale=en&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="vinojan1999" />
 </a>
 
@@ -177,7 +177,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsadisha&repo=Report-Generation-System&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/Vinojan1999/Vinojan1999">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vinojan1999&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vinojan's GitHub Stats" />
 </a>
 
