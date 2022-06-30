@@ -1,5 +1,5 @@
 
-# Hello, folks! <img src="img/Hi.gif" width="30px">
+# Hello, folks! <img src="img/Hi.gif" height="30px">
 
 [![Header](img/profile-banner.png "Header")](https://vinojan1999.github.io)
 
