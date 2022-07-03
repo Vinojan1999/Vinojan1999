@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://twitter.com/iam_vinojan" target="_blank"><img align="center" src="img/twitter1.svg" alt="iam_vinojan" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/vinojan-abhimanyu" target="_blank"><img align="center" src="img/linkedin1.svg" alt="vinojan-abhimanyu" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/iam-vinojan" target="_blank"><img align="center" src="img/linkedin1.svg" alt="vinojan-abhimanyu" height="40" width="40" /></a>
 <a href="https://fb.com/vinojan.abhimanyu" target="_blank"><img align="center" src="img/facebook1.svg" alt="vinojan.abhimanyu" height="40" width="40" /></a>
 <a href="https://instagram.com/iam_vinojan" target="_blank"><img align="center" src="img/instagram1.svg" alt="iam_vinojan" height="40" width="40" /></a>
 <a href="https://medium.com/@iam_vinojan" target="_blank"><img align="center" src="img/medium1.svg" alt="@iam_vinojan" height="40" width="40" /></a>
