@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="img/Hi.gif" height="30px">
 
-[![Header](img/profile-banner.png "Header")](https://vinojan1999.github.io)
+[![Header](img/profile-banner.png "Header")](https://vinojan.gq)
 
 
 <!-- ////////////////// START README FILE /////////////////// -->
@@ -36,7 +36,7 @@
 - [Eventers-Event](https://eventersevents.com/)
 - [BookBae](https://www.bookbae.store/)
 
-🔅 Get into touch with [My Profile](https://vinojan1999.github.io) 👨‍💻
+🔅 Get into touch with [My Profile](https://vinojan.gq) 👨‍💻
 
 🔅 Lets checkout my articles on the [Medium](https://medium.com/@iam_vinojan) 📝
 
