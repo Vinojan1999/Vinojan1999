@@ -171,13 +171,14 @@
 
 
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Vinojan1999&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vinojan's GitHub Stats" width="55%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vinojan1999&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vinojan's GitHub Stats"/>
 </a>
 
-<a href="">
+<!-- <a href="">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinojan1999&show_icons=true&locale=en&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="vinojan1999" />
-</a>
+</a> -->
 
+<hr>
 
 [![Vinojan's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vinojan1999&theme=rogue&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/Vinojan1999)
 
