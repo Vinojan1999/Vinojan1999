@@ -28,11 +28,11 @@
 
 
 <!--//////////// About my self ////////////////-->
-🔅 Founder & CEO, Chief Designer at [**Minimax Studio**](https://minimax.studio/)
+🔅 Founder & CEO, Chief Designer at [**DecHorizon Technologies**](https://dechorizon.com/)
 
-🔅 Currently working on 💼
-- [Adventure Club - UOK](https://ac-uok.com/)
-- [TOWNCHIC](https://townchic.co/)
+🔅 Previous Projects 💼
+- [Adventure Club Website](https://ac-uok.com/)
+- [SEO for TOWNCHIC](https://townchic.co/)
 - [Eventers-Event](https://eventersevents.com/)
 - [BookBae](https://www.bookbae.store/)
 
