@@ -29,6 +29,7 @@
 
 <!--//////////// About my self ////////////////-->
 🔅 Founder & CEO, Chief Designer at [**DecHorizon Technologies**](https://dechorizon.com/)
+
 🔅 Intern Software Engineer at [**Bluebay Labs**](https://blubaylabs.co/)
 
 <!-- 🔅 Previous Projects 💼
