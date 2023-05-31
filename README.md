@@ -38,7 +38,7 @@
 - [Eventers-Event](https://eventersevents.com/)
 - [BookBae](https://www.bookbae.store/) -->
 
-🔅 Get into touch with [My Portfolio Site](https://vinojan.gq) 👨‍💻
+🔅 Get into touch with [My Portfolio Site](https://vinojan.online) 👨‍💻
 
 <!-- 🔅 Lets checkout my articles on the [Medium](https://medium.com/@iam_vinojan) 📝 -->
 
