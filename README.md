@@ -48,17 +48,9 @@
 
 <!-- //////// GitHub Stats /////////////-->
 ## GitHub Stats
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=vinojan1999&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=vinojan1999&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=vinojan1999&show_icons=true" />
-</picture>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinojan1999&hide_progress=true&langs_count=20&theme=merko)
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinojan1999&show_icons=true&theme=merko) -->
 
 
 <!-- Twitter User name and Follower -->
