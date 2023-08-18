@@ -46,30 +46,19 @@
 ## Blogs posts
 ✍️ Visit Medium - [@iam_vinojan](https://medium.com/@iam_vinojan) 📝
 
-<!-- BLOG-POST-LIST:START -->
-<!-- - Build Your Own Operating System 👉 [Part-1](https://medium.com/@iam_vinojan/build-your-own-operating-system-os-431e7716a1d1) | [Part-2](https://medium.com/@iam_vinojan/build-your-own-operating-system-2-e3c99311948) | [Part-3](https://medium.com/@iam_vinojan/build-your-own-operating-system-3-bbea2c30521f) | [Part-4](https://medium.com/@iam_vinojan/build-your-own-operating-system-4-ac9478ce9535) | [Part-5](https://medium.com/@iam_vinojan/build-your-own-operating-system-5-3bfde3b64384) | [Part-6](https://medium.com/@iam_vinojan/build-your-own-operating-system-6-c88d8b1d356f) | [Part-7](https://medium.com/@iam_vinojan/build-your-own-operating-system-7-41a2a9f8843b) | [Part-8](https://medium.com/@iam_vinojan/build-your-own-operating-system-8-c88018bff23) | [Part-9](https://medium.com/@iam_vinojan/build-your-own-operating-system-9-9244351b065)
-
-- [Beekeeper Studio: My Exciting Journey with the Best SQL Editor and Database Management Tool I’ve Ever Used](https://medium.com/@iam_vinojan/beekeeper-studio-my-exciting-journey-with-the-best-sql-editor-and-database-management-tool-ive-e5679098a2ee)
-- [The Rise of Microsoft Edge: From Circus Lion to King of the Internet with OpenAI](https://bootcamp.uxdesign.cc/the-rise-of-microsoft-edge-from-circus-lion-to-king-of-the-internet-with-openai-c4a910beae6d)
-- [Fix ‘Your Windows License Will Expire Soon’ Error — 5 Methods](https://medium.com/@iam_vinojan/how-to-fix-your-windows-license-will-expire-soon-error-2593c2a336d3)
-- [Install and Setup the React App on Ubuntu](https://medium.com/@iam_vinojan/how-to-install-and-setup-the-react-app-on-ubuntu-1edd3c015877)
-- [Install Node.js and npm using Node Version Manager (NVM)](https://bootcamp.uxdesign.cc/how-to-install-node-js-and-npm-using-node-version-manager-nvm-143165b16ce1)
-- [Install Apps on Linux using the Snap Store](https://medium.com/@iam_vinojan/install-apps-on-linux-using-the-snap-store-6125bea8972)
-- [Class, Structure and Protocol in Swift](https://medium.com/@iam_vinojan/class-structure-and-protocol-in-swift-880f0b13a179)
-- [Install Java(JRE & JDK) on ubuntu](https://medium.com/@iam_vinojan/how-to-install-java-jre-jdk-on-ubuntu-18-04-8222a9494f65)
-- [Install XAMPP Stack on Ubuntu](https://medium.com/@iam_vinojan/how-to-install-xampp-stack-on-ubuntu-18-04-83afedd6802d) & [Create XAMPP Shortcut](https://medium.com/@iam_vinojan/how-to-create-xampp-shortcut-in-ubuntus-start-menu-57ad52ce00ee)
-- [Getting Started with VueJS](https://bootcamp.uxdesign.cc/getting-started-with-vue-9fea0655d073)
-- [Evaluation Techniques for Interactive System](https://medium.com/@iam_vinojan/evaluation-techniques-for-interactive-system-e51b6ad54558)
-- [15 Common Reasons Your Google Ads Are Not Showing](https://medium.com/@iam_vinojan/15-common-reasons-your-google-ads-are-not-showing-how-to-fix-the-issues-e274e2f4c87a)
-- [Software Licenses](https://medium.com/@iam_vinojan/software-licenses-f22eadc77765) & [Heuristic Evaluation](https://medium.com/@iam_vinojan/heuristic-evaluation-68de659324c9)
-- [Database designing](https://medium.com/@iam_vinojan/database-designing-2ae8c6d913bb) -->
-
-
-<!-- BLOG-POST-LIST:END -->
-
-
-<!-- //////// Contact Details /////////////-->
-
+<!-- //////// GitHub Stats /////////////-->
+## GitHub Stats
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=vinojan1999&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=vinojan1999&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinojan1999&show_icons=true" />
+</picture>
 
 
 <!-- Twitter User name and Follower -->
