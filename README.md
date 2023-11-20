@@ -1,7 +1,7 @@
 
 # Hello, Folks! <img src="img/Hi.gif" height="30px">
 
-[![Header](img/profile-banner.png "Header")](https://vinojan.gq)
+[![Header](img/profile-banner.png "Header")](https://vinojan.online)
 
 
 <!-- ////////////////// START README FILE /////////////////// -->
@@ -11,19 +11,19 @@
 <p align="center"> Never let anyone tell you that <b>"You can't"</b> Because can't is a word I eliminate from my vocabulary and replace it with <b>Strength</b>..!</p>
 
 <p align="center">
-<a href="https://twitter.com/iam_vinojan" target="_blank"><img align="center" src="img/twitter1.svg" alt="iam_vinojan" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/iam-vinojan" target="_blank"><img align="center" src="img/linkedin1.svg" alt="vinojan-abhimanyu" height="40" width="40" /></a>
-<a href="https://fb.com/vinojan.abhimanyu" target="_blank"><img align="center" src="img/facebook1.svg" alt="vinojan.abhimanyu" height="40" width="40" /></a>
-<a href="https://instagram.com/iam_vinojan" target="_blank"><img align="center" src="img/instagram1.svg" alt="iam_vinojan" height="40" width="40" /></a>
-<a href="https://medium.com/@iam_vinojan" target="_blank"><img align="center" src="img/medium1.svg" alt="@iam_vinojan" height="40" width="40" /></a>
-<a href="mailto:vinojan02abhimanyu@gmail.com" target="_blank"><img align="center" src="img/gmail.svg" alt="vinojan02abhimanyu@gmail.com" height="40" width="40" /></a>
+<a href="https://twitter.com/imvinojanv" target="_blank"><img align="center" src="img/twitter1.svg" alt="twitter" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/imvinojanv" target="_blank"><img align="center" src="img/linkedin1.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="https://fb.com/imvinojanv" target="_blank"><img align="center" src="img/facebook1.svg" alt="facebook" height="40" width="40" /></a>
+<a href="https://instagram.com/imvinojanv" target="_blank"><img align="center" src="img/instagram1.svg" alt="instagram" height="40" width="40" /></a>
+<a href="https://medium.com/@imvinojanv" target="_blank"><img align="center" src="img/medium1.svg" alt="medium" height="40" width="40" /></a>
+<a href="mailto:vinojan@dechorizon.com" target="_blank"><img align="center" src="img/gmail.svg" alt="email" height="40" width="40" /></a>
 </p>
 <!-- https://icons8.com/icons/ -->
 <hr/>
 
 <!-- Counter of profile viewers -->
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=vinojan1999&label=Profile%20views&color=0e75b6&style=flat" alt="vinojan1999" /> 
+<img src="https://komarev.com/ghpvc/?username=imvinojanv&label=Profile%20views&color=0e75b6&style=flat" alt="vinojan1999" /> 
 </p>
 
 
@@ -44,11 +44,11 @@
 
 <!--////////////// Blog section ///////////// -->
 ## Blogs posts
-✍️ Visit Medium - [@iam_vinojan](https://medium.com/@iam_vinojan) 📝
+✍️ Visit Medium - [@iam_vinojan](https://medium.com/@imvinojanv) 📝
 
 <!-- //////// GitHub Stats /////////////-->
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinojan1999&hide_progress=true&langs_count=20&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvinojanv&hide_progress=true&langs_count=20&theme=merko)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinojan1999&show_icons=true&theme=merko) -->
 
@@ -152,11 +152,11 @@
 
 
 <!-- <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vinojan1999&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vinojan's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imvinojanv&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vinojan's GitHub Stats"/>
 </a> -->
 
 <!-- <a href="">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinojan1999&show_icons=true&locale=en&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="vinojan1999" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=imvinojanv&show_icons=true&locale=en&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="vinojan1999" />
 </a> -->
 
 <!-- <hr> -->
