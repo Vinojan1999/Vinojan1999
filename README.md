@@ -30,7 +30,7 @@
 <!--//////////// About my self ////////////////-->
 🔅 Founder and CEO at [**DecHorizon Technologies**](https://dechorizon.com/)
 
-🔅 Intern Software Engineer at [**Bluebay Labs**](https://blubaylabs.co/)
+🔅 Former Intern Software Engineer at [**Bluebay Labs**](https://blubaylabs.co/)
 
 <!-- 🔅 Previous Projects 💼
 - [Adventure Club Website](https://ac-uok.com/)
