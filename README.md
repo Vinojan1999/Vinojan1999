@@ -1,22 +1,24 @@
 
-# Hello, Folks! <img src="img/Hi.gif" height="30px">
+# Hi there <img src="img/Hi.gif" height="30px">
 
-[![Header](img/profile-banner.png "Header")](https://vinojan.online)
+[![Header](https://ik.imagekit.io/vinojan/Personal/LinkedIn%20Banner.png?updatedAt=1716380174422 "Header")](https://vinojan.online)
 
 
 <!-- ////////////////// START README FILE /////////////////// -->
 
+<!-- 
 <h1 align="center">I'm Vinojan Veerapathirathasan</h1>
 
-<p align="center"> Never let anyone tell you that <b>"You can't"</b> Because can't is a word I eliminate from my vocabulary and replace it with <b>Strength</b>..!</p>
+<p align="center"> Never let anyone tell you that <b>"You can't"</b> Because can't is a word I eliminate from my vocabulary and replace it with <b>Strength</b>..!</p> 
+-->
 
 <p align="center">
-<a href="https://twitter.com/imvinojanv" target="_blank"><img align="center" src="img/twitter1.svg" alt="twitter" height="40" width="40" /></a>
+<!-- <a href="https://twitter.com/imvinojanv" target="_blank"><img align="center" src="img/twitter1.svg" alt="twitter" height="40" width="40" /></a> -->
 <a href="https://linkedin.com/in/imvinojanv" target="_blank"><img align="center" src="img/linkedin1.svg" alt="linkedin" height="40" width="40" /></a>
 <a href="https://fb.com/imvinojanv" target="_blank"><img align="center" src="img/facebook1.svg" alt="facebook" height="40" width="40" /></a>
 <a href="https://instagram.com/imvinojanv" target="_blank"><img align="center" src="img/instagram1.svg" alt="instagram" height="40" width="40" /></a>
 <a href="https://medium.com/@imvinojanv" target="_blank"><img align="center" src="img/medium1.svg" alt="medium" height="40" width="40" /></a>
-<a href="mailto:vinojan@dechorizon.com" target="_blank"><img align="center" src="img/gmail.svg" alt="email" height="40" width="40" /></a>
+<a href="mailto:imvinojanv@gmail.com" target="_blank"><img align="center" src="img/gmail.svg" alt="email" height="40" width="40" /></a>
 </p>
 <hr/>
 
@@ -27,9 +29,13 @@
 
 
 <!--//////////// About my self ////////////////-->
+🔅 Software Engineer at [**Emmanuel's Lanka**](https://emmanuelslanka.com/)
+
 🔅 Founder and CEO at [**DecHorizon Technologies**](https://dechorizon.com/)
 
 🔅 Former Intern Software Engineer at [**Bluebay Labs**](https://blubaylabs.co/)
+
+🔅 Former Web Developer at [**TOWNCHIC Global Ventures**](https://townchic.co/)
 
 <!-- 🔅 Previous Projects 💼
 - [Adventure Club Website](https://ac-uok.com/)
@@ -37,13 +43,11 @@
 - [Eventers-Event](https://eventersevents.com/)
 - [BookBae](https://www.bookbae.store/) -->
 
-🔅 Get into touch with [My Portfolio Site](https://vinojan.online) 👨‍💻
-
 <!-- 🔅 Lets checkout my articles on the [Medium](https://medium.com/@iam_vinojan) 📝 -->
 
 <!--////////////// Blog section ///////////// -->
 ## Blogs posts
-✍️ Visit Medium - [@iam_vinojan](https://medium.com/@imvinojanv) 📝
+✍️ Visit Medium - [@imvinojanv](https://medium.com/@imvinojanv) 📝
 
 <!-- //////// GitHub Stats /////////////-->
 ## GitHub Stats
