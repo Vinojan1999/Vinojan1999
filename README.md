@@ -3,7 +3,25 @@
 
 [![Header](https://ik.imagekit.io/vinojan/Personal/LinkedIn%20Banner.png?updatedAt=1716380174422 "Header")](https://vinojan.online)
 
- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/imvinojanv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imvinojanv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imvinojanv) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@imvinojanv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imvinojanv)
+<header>
+  <div align="center">
+<!--     <a target="_blank" href="https://enji.dev">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=enji.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
+    </a> -->
+    <a target="_blank" href="https://linkedin.com/in/imvinojanv">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-imvinojanv-7733ff?style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155">
+    </a>
+    <a target="_blank" href="https://facebook.com/imvinojanv">
+      <img alt="Facebook" src="https://img.shields.io/badge/Facebook-imvinojanv-7733ff?style=flat&logo=facebook&logoColor=ffffff&labelColor=334155">
+    </a>
+    <a target="_blank" href="https://instagram.com/imvinojanv">
+      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-imvinojanv-7733ff?style=flat&logo=instagram&logoColor=ffffff&labelColor=334155">
+    </a>
+    <a target="_blank" href="[https://twitter.com/enjidev](https://medium.com/@imvinojanv)">
+      <img alt="Medium" src="https://img.shields.io/badge/Medium-@imvinojanv-7733ff?style=flat&logo=medium&logoColor=ffffff&labelColor=334155">
+    </a>
+  </div>
+</header>
 
 <hr/>
 
@@ -12,17 +30,6 @@
 <img src="https://komarev.com/ghpvc/?username=imvinojanv&label=Profile%20views&color=0e75b6&style=flat" alt="vinojan1999" /> 
 </p>
 
-<!--//////////// About my self ////////////////-->
-🔅 Software Engineer at [**Emmanuel's Lanka**](https://emmanuelslanka.com/)
-
-🔅 Founder and CEO at [**DecHorizon Technologies**](https://dechorizon.com/)
-
-🔅 Former Intern Software Engineer at [**Bluebay Labs**](https://blubaylabs.co/)
-
-🔅 Former Web Developer at [**TOWNCHIC Global Ventures**](https://townchic.co/)
-
-<!--////////////// Blog section ///////////// -->
-## 📑 Blogs Posts
 🔗 Visit Medium - [@imvinojanv](https://medium.com/@imvinojanv) 📝
 
 <!-- //////// GitHub Stats /////////////-->
